@@ -1,1 +1,1 @@
-This game was created a part of the course with Code Institute for Full Stack Developer 
+This game was created as a part of the course with Code Institute for Full Stack Developer 
